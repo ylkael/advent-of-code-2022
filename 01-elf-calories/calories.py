@@ -1,4 +1,4 @@
-with open('elf-calories/calories.txt') as file:
+with open('01-elf-calories/calories.txt') as file:
     calories = file.read()
     elf = calories.split("\n\n")
     most_calories = 0
