@@ -1,7 +1,7 @@
 Rock Paper Scissors  
 
 Strategy guide  
-The first column: opponent is going to play, A for Rock, B for Paper, and C for Scissors
+The first column: opponent is going to play, A for Rock, B for Paper, and C for Scissors  
 The second column: you play in response, X for Rock, Y for Paper, and Z for Scissors.  
 
 Your total score is the sum of:  
