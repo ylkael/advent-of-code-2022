@@ -41,3 +41,5 @@ the sum of these is 157.
 
 Find the item type that appears in both compartments of each rucksack.  
 What is the sum of the priorities of those item types?
+
+https://adventofcode.com/2022/day/3
