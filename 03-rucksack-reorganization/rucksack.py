@@ -1,4 +1,4 @@
-with open("03-rucksack/rucksacks_contents.txt") as file:
+with open("03-rucksack-reorganization/rucksacks_contents.txt") as file:
     contents = file.read()
     contents = contents.split("\n")
     priorities_sum = 0
