@@ -17,4 +17,7 @@ For example, 2-8 fully contains 3-7, and 6-6 is fully contained by 4-6.
 Part 1:  
 In how many assignment pairs does one range fully contain the other?
 
+Part 2:  
+The number of pairs that overlap at all.  
+
 https://adventofcode.com/2022/day/4
