@@ -39,7 +39,17 @@ In the above example, the priority of the item type that appears in both compart
 16 (p), 38 (L), 42 (P), 22 (v), 20 (t), and 19 (s);  
 the sum of these is 157.
 
+Part 1:  
 Find the item type that appears in both compartments of each rucksack.  
 What is the sum of the priorities of those item types?
+
+Part 2:  
+Every Elf carries a badge that identifies their group. For efficiency, within each group of three Elves, the badge is the only item type carried by all three Elves.  
+The only way to tell which item type is the right one is by finding the one item type that is common between all three Elves in each group.  
+Every set of three lines in your list corresponds to a single group, but each group can have a different badge item type.  
+
+Find the item type that corresponds to the badges of each three-Elf group.  
+What is the sum of the priorities of those item types?  
+
 
 https://adventofcode.com/2022/day/3
